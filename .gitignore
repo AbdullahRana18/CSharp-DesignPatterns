@@ -1,0 +1,32 @@
+# Visual Studio temporary files, build results, and user-specific files
+
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.tmp
+*.cache
+*.pdb
+*.dbmdl
+
+# Ignore build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore auto-generated files
+*.exe
+*.dll
+*.json
+*.db
+*.mdf
+*.ldf
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
